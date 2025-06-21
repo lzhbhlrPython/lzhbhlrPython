@@ -1,7 +1,5 @@
 # 👋 Hi, I’m lzhbhlrPython!
 
-![GitHub Avatar](https://avatars.githubusercontent.com/u/lzhbhlrPython?v=4)
-
 ---
 
 🎓 **About Me**  
